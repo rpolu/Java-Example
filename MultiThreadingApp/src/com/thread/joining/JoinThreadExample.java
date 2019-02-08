@@ -2,7 +2,7 @@ package com.thread.joining;
 
 class Thread1 extends Thread {
 	public void run() {
-		for (int i = 1; i <= 30; i++) {
+		for (int i = 100; i <= 150; i++) {
 			System.out.println(i);
 		}
 	}

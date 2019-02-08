@@ -13,7 +13,6 @@ class Runner implements Runnable {
 
 	}
 }
-
 public class ByImplementingRunnable {
 
 	public static void main(String[] args) {
