@@ -23,6 +23,7 @@ class StringUnique {
 
 public class AllUniqueCharExample {
 	public static void main(String[] args) {
+		System.out.println("gnjjjj");
 		String x = "mkjhgfer";
 		System.out.println(StringUnique.uniqueChars(x));
 
